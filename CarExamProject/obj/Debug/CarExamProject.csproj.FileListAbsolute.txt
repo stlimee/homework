@@ -1,0 +1,7 @@
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\bin\Debug\CarExamProject.exe.config
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\bin\Debug\CarExamProject.exe
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\bin\Debug\CarExamProject.pdb
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\obj\Debug\CarExamProject.csprojAssemblyReference.cache
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\obj\Debug\CarExamProject.csproj.CoreCompileInputs.cache
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\obj\Debug\CarExamProject.exe
+C:\Users\rshec\source\repos\CarExamProject\CarExamProject\obj\Debug\CarExamProject.pdb
